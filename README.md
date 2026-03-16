@@ -1,6 +1,9 @@
-<!-- banner + user profile icon -->
+<!-- banner + user profile icon 
+![profile-image](https://github.com/vxsfx.png =100x100)
+-->
+<img src="https://github.com/vxsfx.png" width="100" height="100">
 
-![profile-image](https://github.com/vxsfx.png =100x1003)
+`#ffaa88` color
 
 ## Hi there 👋
 
