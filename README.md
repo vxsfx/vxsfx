@@ -1,3 +1,7 @@
+<!-- banner + user profile icon -->
+
+![profile-image](https://github.com/vxsfx.png)
+
 ## Hi there 👋
 
 <!--
@@ -13,4 +17,35 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+About Me.
+
+RANDOM MANTRA:::
+    CAN USE
+  Do nothing.
+  Do something.
+  Do everything.
+
+    DO NOT USE UNLESS I ACTUALLY GOOD AT SAFETY
+  Minimal.
+  Safe.
+  Optimized.
+  
+    CAN USE
+  Featureful (features).
+  Fanciful (theme)
+  Extensible (plugins, ease of config).
+
+  
+
+# Contact
+
+# Main repos and Projects
+[Arch linux Dotfiles](/todo)
+Contains configurations and scripts for my persoan arch installation.
+
+[Utilities](/todo)
+Submodule of dotfiles, kept seperate for easier copy/paste of snippets.
 -->
