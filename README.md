@@ -3,7 +3,7 @@
 -->
 <img src="https://github.com/vxsfx.png" width="100" height="100">
 
-`#ffaa88` color
+<!-- not supported `#ffaa88` color -->
 
 ## Hi there 👋
 
