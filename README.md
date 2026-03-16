@@ -1,6 +1,6 @@
 <!-- banner + user profile icon -->
 
-![profile-image](https://github.com/vxsfx.png)
+![profile-image](https://github.com/vxsfx.png =100x1003)
 
 ## Hi there 👋
 
